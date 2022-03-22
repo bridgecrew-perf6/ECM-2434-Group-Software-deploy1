@@ -9,4 +9,4 @@ keras
 opencv-python-headless
 pytz
 whitenoise
-cunicorn
+gunicorn
