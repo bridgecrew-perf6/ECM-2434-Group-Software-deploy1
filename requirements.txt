@@ -2,6 +2,7 @@ django
 exif
 Pillow
 geopy
+psycopg2
 gunicorn
 tensorflow-cpu
 keras
