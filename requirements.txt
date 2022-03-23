@@ -3,7 +3,7 @@ exif
 Pillow
 geopy
 gunicorn
-tensorflow
+tensorflow-cpu
 keras
 opencv-python-headless
 pytz
