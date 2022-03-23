@@ -9,3 +9,4 @@ keras
 opencv-python-headless
 pytz
 whitenoise
+dj-database-url
